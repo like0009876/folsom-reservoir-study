@@ -1,0 +1,94 @@
+{
+  "checks": [
+    {
+      "check": "alpha1_equals_A_WY2011",
+      "pass": true
+    },
+    {
+      "check": "balance_and_bounds_WY2011_A",
+      "pass": true
+    },
+    {
+      "check": "balance_and_bounds_WY2011_B",
+      "pass": true
+    },
+    {
+      "check": "balance_and_bounds_WY2011_C",
+      "pass": true
+    },
+    {
+      "check": "alpha1_equals_A_WY2012",
+      "pass": true
+    },
+    {
+      "check": "balance_and_bounds_WY2012_A",
+      "pass": true
+    },
+    {
+      "check": "balance_and_bounds_WY2012_B",
+      "pass": true
+    },
+    {
+      "check": "balance_and_bounds_WY2012_C",
+      "pass": true
+    },
+    {
+      "check": "alpha1_equals_A_WY2015",
+      "pass": true
+    },
+    {
+      "check": "balance_and_bounds_WY2015_A",
+      "pass": true
+    },
+    {
+      "check": "balance_and_bounds_WY2015_B",
+      "pass": true
+    },
+    {
+      "check": "balance_and_bounds_WY2015_C",
+      "pass": true
+    },
+    {
+      "check": "alpha1_equals_A_WY2016",
+      "pass": true
+    },
+    {
+      "check": "balance_and_bounds_WY2016_A",
+      "pass": true
+    },
+    {
+      "check": "balance_and_bounds_WY2016_B",
+      "pass": true
+    },
+    {
+      "check": "balance_and_bounds_WY2016_C",
+      "pass": true
+    },
+    {
+      "check": "no_water_conservation",
+      "pass": true
+    },
+    {
+      "check": "heldout_years_not_used_for_fit",
+      "pass": true
+    },
+    {
+      "check": "WY2015_hourly_vs_96step_convergence",
+      "pass": true
+    },
+    {
+      "check": "primary2011_official_balance_residual",
+      "pass": true
+    },
+    {
+      "check": "extreme_inflow_overflow_flagged",
+      "pass": true
+    },
+    {
+      "check": "flood_target_exceedance_only_if_capacity_binds",
+      "pass": true
+    }
+  ],
+  "all_pass": true,
+  "scope": "Numerical correctness and data eligibility, not proof of real-world optimality"
+}

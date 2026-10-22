@@ -1,0 +1,102 @@
+[
+  {
+    "path": "data\\raw\\cdec_FOL_daily_1994_2016.csv",
+    "bytes": 2167851,
+    "sha256": "ee7a77635ee7186ac6f0cf44199ee96e241109b870282e44174c2ff8a8bdd794"
+  },
+  {
+    "path": "data\\raw\\cdec_probe.csv",
+    "bytes": 1488,
+    "sha256": "cf9a616553f5949433c263b684edf3e0a7207bf9dbb69d3500ea7738b22b91aa"
+  },
+  {
+    "path": "data\\raw\\demand.txt",
+    "bytes": 6221,
+    "sha256": "aff483915c5e81d87d088b66d9e20b6cf5477f4f3a54731dbcda9001d4591e99"
+  },
+  {
+    "path": "data\\raw\\folsom.yml",
+    "bytes": 995,
+    "sha256": "3f1e9be520b40474593f5ea48f92ee89cbb7ea3738d2b017a75d928419c58c1f"
+  },
+  {
+    "path": "data\\raw\\folsom_daily.csv",
+    "bytes": 2122529,
+    "sha256": "86de99ffd008ef1ab7dac147fffeb541f93e525bc3c511acb61e546d39053ba6"
+  },
+  {
+    "path": "data\\processed\\cdec_daily_quality_controlled.csv",
+    "bytes": 1577973,
+    "sha256": "54d9396c467029bba9d8ef603195871f510e687f65ee1bda5525d0b48133b237"
+  },
+  {
+    "path": "data\\processed\\cdec_normalized_long.csv",
+    "bytes": 5435008,
+    "sha256": "99b880999de073a290ade9473b171f8ac9ae47060642f9d70995a37274bcfff9"
+  },
+  {
+    "path": "data\\processed\\data_dictionary.csv",
+    "bytes": 1286,
+    "sha256": "1eaa0a328b7108071f4cf23457713887c047a3d37ca91ddfa0a112759501e3b4"
+  },
+  {
+    "path": "data\\processed\\demand_scenario_365_day_profile.csv",
+    "bytes": 23263,
+    "sha256": "e5f2131ab72e40d68385cc357e43cf0046c36e524511952bc3fb384ff115ddf4"
+  },
+  {
+    "path": "data\\processed\\EXTENDED_longest_screen_pass_525days.csv",
+    "bytes": 101387,
+    "sha256": "038b99135ed2f269f866e4543933c6a1b28dc8e2dd5101a32ac1d89d9ab4726d"
+  },
+  {
+    "path": "data\\processed\\github_daily_quality_controlled.csv",
+    "bytes": 6755622,
+    "sha256": "c4adbcb56fc6c839bddd41a9f9ca4366c663e397371c2807a3f37997ef25b8d4"
+  },
+  {
+    "path": "data\\processed\\PRIMARY_cdec_WY2011_screened.csv",
+    "bytes": 70027,
+    "sha256": "3171c5ce9a4908f3ddde6c534e70283692efa7b7882bb623bb71f323b0ba8d3c"
+  },
+  {
+    "path": "results\\data_quality\\all_five_screen_pass_continuous_segments.csv",
+    "bytes": 3123,
+    "sha256": "1dc44baa621a812acefb3f863bec14e33c0148575b20c8c7759561439df62af6"
+  },
+  {
+    "path": "results\\data_quality\\cdec_review_records.csv",
+    "bytes": 281981,
+    "sha256": "9070b87aad31eaa98ebe74f919022f319e917e6d46fc60657e4ed870f38830dc"
+  },
+  {
+    "path": "results\\data_quality\\crosscheck_summary.csv",
+    "bytes": 427,
+    "sha256": "609ae9ae05cb1fe0e61303a1acb897603a7197051cb9fc444cf44702811f9ba7"
+  },
+  {
+    "path": "results\\data_quality\\github_review_records.csv",
+    "bytes": 2798517,
+    "sha256": "de1d92f90cccabc42c7a7fe60815140b02b05f72a100872785120efe0a3eba5e"
+  },
+  {
+    "path": "results\\data_quality\\nonnegative_forcing_continuous_segments.csv",
+    "bytes": 751,
+    "sha256": "e876c7ce70a1ddd3c8bbe136b465926d8ac815edaa953748d4d0c58d59aab71e"
+  },
+  {
+    "path": "results\\data_quality\\official_github_crosscheck.csv",
+    "bytes": 1648330,
+    "sha256": "aeaeaca72b9261a4d863b4fba31090b914b97ae5d64ea4524bf632f9139c3331"
+  },
+  {
+    "path": "results\\data_quality\\quality_summary.json",
+    "bytes": 2085,
+    "sha256": "89efd17e2a500581eba00a01eea6ae73a62f9f6c60a3674ded37d837f68e77a4"
+  },
+  {
+    "path": "results\\data_quality\\water_year_coverage.csv",
+    "bytes": 1316,
+    "sha256": "d04860dd11b3cc6214783bac6d6e093a0acb95dfb7c95f2f8acad07a87384b30"
+  }
+]

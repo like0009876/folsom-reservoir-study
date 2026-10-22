@@ -1,0 +1,10 @@
+{
+  "raw_unchanged_demand.txt": true,
+  "raw_unchanged_folsom.yml": true,
+  "raw_unchanged_folsom_daily.csv": true,
+  "primary_365_days": true,
+  "primary_no_missing_numeric": true,
+  "primary_contiguous": true,
+  "primary_no_review": true,
+  "primary_nonnegative": true
+}

@@ -1,0 +1,28 @@
+{
+  "theta": 0.65,
+  "alpha": 0.55,
+  "training_score": 0.01647208224718001,
+  "training_years": [
+    2000,
+    2003,
+    2007
+  ],
+  "test_years": [
+    2011,
+    2012,
+    2015,
+    2016
+  ],
+  "config": {
+    "capacity": 975.0,
+    "reserve": 90.0,
+    "initial": 466.1,
+    "inflow_scale": 1.0,
+    "demand_scale": 1.0,
+    "tocs_offset": 0.0,
+    "eco_scale": 1.0,
+    "safe_cfs": 130000.0,
+    "substeps": 24
+  },
+  "grid_size": 42
+}

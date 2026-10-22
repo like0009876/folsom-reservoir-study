@@ -1,0 +1,9 @@
+{
+  "word_report": "report/Folsom水库调度研究报告_修正版.docx",
+  "docx_sha256": "28f83d9d8d94be01d106875e61410ff58ff0d5c358b425571bcacf8373cb4b7f",
+  "rendered_pages": 15,
+  "visual_review": "All 15 final page images inspected. Equations, charts, repeated table headers, references and final GitHub link are visible without clipping or overlap.",
+  "data_and_model_independent_checks": 134,
+  "all_independent_checks_pass": true,
+  "note": "Rendering uses LibreOffice 26.8.1. Pagination may vary with other Word installations."
+}

@@ -1,0 +1,38 @@
+{
+  "numerical_run": {
+    "python": "3.13.9",
+    "numpy": "2.3.5",
+    "pandas": "2.3.3",
+    "train": [
+      2000,
+      2003,
+      2007
+    ],
+    "test": [
+      2011,
+      2012,
+      2015,
+      2016
+    ],
+    "selected": {
+      "theta": 0.65,
+      "alpha": 0.55
+    },
+    "sensitivity_cases": [
+      "inflow_60pct",
+      "inflow_80pct",
+      "demand_80pct",
+      "demand_120pct",
+      "initial_250",
+      "initial_700",
+      "tocs_plus100",
+      "tocs_plus177",
+      "capacity_977",
+      "ecofloor_zero",
+      "ecofloor_double"
+    ],
+    "no_imputation": true
+  },
+  "system_matplotlib": "3.10.6",
+  "pdf_font": "Windows SimSun TrueType collection, subset embedded in delivered PDF"
+}

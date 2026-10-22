@@ -1,0 +1,22 @@
+{
+  "retrieved_on": "2026-10-22",
+  "sources": [
+    {
+      "url": "https://github.com/EILab-Polimi/ResLLM",
+      "files": [
+        "folsom_daily.csv",
+        "demand.txt",
+        "folsom.yml"
+      ],
+      "role": "Public project historical inputs and illustrative demand/constraints"
+    },
+    {
+      "url": "https://www.usbr.gov/mp/cvp/",
+      "role": "Official background; capacity listed 977000 acre-ft, not substituted into 975 TAF study baseline"
+    },
+    {
+      "url": "https://water.usace.army.mil/cda/documents/wc/3098/Folsom2019WCManual%5BR%5D.pdf",
+      "role": "Official operating manual reference; operations evolved; simplified static curve not a full reproduction"
+    }
+  ]
+}

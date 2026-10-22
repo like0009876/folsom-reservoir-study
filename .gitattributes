@@ -1,0 +1,8 @@
+# Preserve downloaded observations and exported results byte for byte.
+data/** -text
+results/** -text
+*.py text eol=lf
+*.md text eol=lf
+*.docx binary
+*.png binary
+*.pdf binary

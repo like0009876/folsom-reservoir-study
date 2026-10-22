@@ -1,0 +1,71 @@
+{
+  "cleaned_on": "2026-10-22",
+  "github": {
+    "total_days": 40908,
+    "missing_storage_and_outflow_days": 18627,
+    "floor_0_001_days": 138,
+    "balance_review_gt_0_1_taf_days": 148,
+    "above_model_capacity_days": 485,
+    "balance_max_abs_taf": 188.63455374435293
+  },
+  "cdec": {
+    "raw_records": 38805,
+    "calendar_days": 8309,
+    "non_numeric_records": 851,
+    "negative_records": 1,
+    "obs_day_mismatch_numeric_records": 1134,
+    "nonblank_source_flag_numeric_records": 250,
+    "core_complete_days": 7983,
+    "five_fields_complete_days": 5081,
+    "forcing_complete_nonnegative_days": 8007,
+    "full_water_years_forcing_complete": [
+      2000,
+      2002,
+      2003,
+      2007,
+      2011,
+      2012,
+      2015,
+      2016
+    ],
+    "full_water_years_all_five_complete": [
+      2011
+    ],
+    "missing_days_by_field": {
+      "storage_taf": 11,
+      "inflow_taf_per_day": 301,
+      "outflow_taf_per_day": 62,
+      "evap_taf_per_day": 0,
+      "tocs_taf": 3217
+    }
+  },
+  "demand": {
+    "source_length": 366,
+    "last_equals_first": true,
+    "unique_calendar_profile_length": 365,
+    "annual_demand_taf": 1861.0426084362484,
+    "role": "assumption; not validated observed demand"
+  },
+  "constants": {
+    "cfs_to_taf_per_day": 0.0019834710743801653,
+    "taf_to_m3": 1233481.83754752
+  },
+  "screened_primary": {
+    "water_year": 2011,
+    "start": "2010-10-01",
+    "end": "2011-09-30",
+    "days": 365,
+    "max_abs_balance_residual_taf": 0.0012148760330541481,
+    "remaining_limit": "Screening does not prove independence of source variables or full policy validity"
+  },
+  "rules": {
+    "imputation": "none",
+    "outlier_deletion": "none",
+    "timestamp_shift": "none; record date retained, OBS DATE differences flagged",
+    "balance_review_threshold_taf": 0.1,
+    "threshold_role": "screening only; not a physical invalidity verdict",
+    "cross_source_filling": "none",
+    "negative_inflow_clipping": "none",
+    "scenario_comparison_performed": false
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "url": "https://cdec.water.ca.gov/dynamicapp/req/CSVDataServlet?Stations=FOL&SensorNums=15,76,23,74,94&dur_code=D&Start=1994-01-01&End=2016-09-30",
+  "retrieved_on": "2026-10-22",
+  "bytes": 2167851,
+  "sha256": "ee7a77635ee7186ac6f0cf44199ee96e241109b870282e44174c2ff8a8bdd794",
+  "station_metadata": "https://cdec.water.ca.gov/dynamicapp/staMeta?station_id=FOL",
+  "sensors": {
+    "15": "storage AF",
+    "76": "inflow CFS",
+    "23": "outflow CFS",
+    "74": "computed lake evaporation CFS",
+    "94": "top conservation storage AF"
+  }
+}

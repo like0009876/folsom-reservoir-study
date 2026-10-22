@@ -1,0 +1,12 @@
+﻿field,definition,unit,usage_limit
+date,CDEC DATE TIME record date,date,Retain source date; OBS DATE differences remain visible
+storage_taf,CDEC sensor15; AF / 1000,TAF,State observation; not demand
+inflow_taf_per_day,CDEC sensor76; CFS * 86.4/43560,TAF/day,Daily mean flow converted to daily volume
+outflow_taf_per_day,CDEC sensor23; CFS * 86.4/43560,TAF/day,Total release is not identical to actual consumptive use
+evap_taf_per_day,CDEC sensor74; computed evaporation flow converted,TAF/day,"Computed source quantity, not independent direct measurement"
+tocs_taf,CDEC sensor94; AF /1000,TAF,Reported operating control; missing dates not interpolated
+balance_residual_taf,S(t)-S(t-1)-Q(t)+R(t)+E(t),TAF,Diagnostic; other terms/time conventions may affect closure
+requires_review,"missing, negative, date, source flag or balance screen",boolean,Warning; does not automatically mean erroneous
+forcing_available_nonnegative,inflow and evaporation finite and >=0,boolean,"Availability only, not full quality certification"
+*_source_flag,unaltered CDEC flag after stripping whitespace,text,NO_RECORD means no source record; semantics not independently resolved
+demand_taf_per_day,first365 source demand.txt values,TAF/day,Scenario only; leap-day assignment remains unresolved

@@ -1,0 +1,804 @@
+{
+  "all_pass": true,
+  "checks": [
+    {
+      "check": "saved_balance_continuous_1243days_A.csv",
+      "pass": true,
+      "evidence": "max absolute residual=2.71427325e-12 TAF; rounded saved CSV"
+    },
+    {
+      "check": "saved_constraints_continuous_1243days_A.csv",
+      "pass": true,
+      "evidence": "results\\research\\continuous_1243days_A.csv"
+    },
+    {
+      "check": "saved_balance_continuous_1243days_B.csv",
+      "pass": true,
+      "evidence": "max absolute residual=2.71427325e-12 TAF; rounded saved CSV"
+    },
+    {
+      "check": "saved_constraints_continuous_1243days_B.csv",
+      "pass": true,
+      "evidence": "results\\research\\continuous_1243days_B.csv"
+    },
+    {
+      "check": "saved_balance_continuous_1243days_C.csv",
+      "pass": true,
+      "evidence": "max absolute residual=2.71427325e-12 TAF; rounded saved CSV"
+    },
+    {
+      "check": "saved_constraints_continuous_1243days_C.csv",
+      "pass": true,
+      "evidence": "results\\research\\continuous_1243days_C.csv"
+    },
+    {
+      "check": "saved_balance_daily_WY2000_A.csv",
+      "pass": true,
+      "evidence": "max absolute residual=9.40000024e-08 TAF; rounded saved CSV"
+    },
+    {
+      "check": "saved_constraints_daily_WY2000_A.csv",
+      "pass": true,
+      "evidence": "results\\research\\daily_WY2000_A.csv"
+    },
+    {
+      "check": "saved_balance_daily_WY2000_B.csv",
+      "pass": true,
+      "evidence": "max absolute residual=9.56799671e-08 TAF; rounded saved CSV"
+    },
+    {
+      "check": "saved_constraints_daily_WY2000_B.csv",
+      "pass": true,
+      "evidence": "results\\research\\daily_WY2000_B.csv"
+    },
+    {
+      "check": "saved_balance_daily_WY2000_C.csv",
+      "pass": true,
+      "evidence": "max absolute residual=9.911997e-08 TAF; rounded saved CSV"
+    },
+    {
+      "check": "saved_constraints_daily_WY2000_C.csv",
+      "pass": true,
+      "evidence": "results\\research\\daily_WY2000_C.csv"
+    },
+    {
+      "check": "saved_balance_daily_WY2003_A.csv",
+      "pass": true,
+      "evidence": "max absolute residual=9.21700138e-08 TAF; rounded saved CSV"
+    },
+    {
+      "check": "saved_constraints_daily_WY2003_A.csv",
+      "pass": true,
+      "evidence": "results\\research\\daily_WY2003_A.csv"
+    },
+    {
+      "check": "saved_balance_daily_WY2003_B.csv",
+      "pass": true,
+      "evidence": "max absolute residual=9.87999798e-08 TAF; rounded saved CSV"
+    },
+    {
+      "check": "saved_constraints_daily_WY2003_B.csv",
+      "pass": true,
+      "evidence": "results\\research\\daily_WY2003_B.csv"
+    },
+    {
+      "check": "saved_balance_daily_WY2003_C.csv",
+      "pass": true,
+      "evidence": "max absolute residual=9.02000874e-08 TAF; rounded saved CSV"
+    },
+    {
+      "check": "saved_constraints_daily_WY2003_C.csv",
+      "pass": true,
+      "evidence": "results\\research\\daily_WY2003_C.csv"
+    },
+    {
+      "check": "saved_balance_daily_WY2007_A.csv",
+      "pass": true,
+      "evidence": "max absolute residual=9.36000148e-08 TAF; rounded saved CSV"
+    },
+    {
+      "check": "saved_constraints_daily_WY2007_A.csv",
+      "pass": true,
+      "evidence": "results\\research\\daily_WY2007_A.csv"
+    },
+    {
+      "check": "saved_balance_daily_WY2007_B.csv",
+      "pass": true,
+      "evidence": "max absolute residual=9.42600424e-08 TAF; rounded saved CSV"
+    },
+    {
+      "check": "saved_constraints_daily_WY2007_B.csv",
+      "pass": true,
+      "evidence": "results\\research\\daily_WY2007_B.csv"
+    },
+    {
+      "check": "saved_balance_daily_WY2007_C.csv",
+      "pass": true,
+      "evidence": "max absolute residual=9.36000148e-08 TAF; rounded saved CSV"
+    },
+    {
+      "check": "saved_constraints_daily_WY2007_C.csv",
+      "pass": true,
+      "evidence": "results\\research\\daily_WY2007_C.csv"
+    },
+    {
+      "check": "saved_balance_daily_WY2011_A.csv",
+      "pass": true,
+      "evidence": "max absolute residual=8.78799717e-08 TAF; rounded saved CSV"
+    },
+    {
+      "check": "saved_constraints_daily_WY2011_A.csv",
+      "pass": true,
+      "evidence": "results\\research\\daily_WY2011_A.csv"
+    },
+    {
+      "check": "saved_balance_daily_WY2011_B.csv",
+      "pass": true,
+      "evidence": "max absolute residual=9.4509967e-08 TAF; rounded saved CSV"
+    },
+    {
+      "check": "saved_constraints_daily_WY2011_B.csv",
+      "pass": true,
+      "evidence": "results\\research\\daily_WY2011_B.csv"
+    },
+    {
+      "check": "saved_balance_daily_WY2011_C.csv",
+      "pass": true,
+      "evidence": "max absolute residual=9.04399755e-08 TAF; rounded saved CSV"
+    },
+    {
+      "check": "saved_constraints_daily_WY2011_C.csv",
+      "pass": true,
+      "evidence": "results\\research\\daily_WY2011_C.csv"
+    },
+    {
+      "check": "saved_balance_daily_WY2011_official_tocs_A.csv",
+      "pass": true,
+      "evidence": "max absolute residual=2.35100828e-12 TAF; rounded saved CSV"
+    },
+    {
+      "check": "saved_constraints_daily_WY2011_official_tocs_A.csv",
+      "pass": true,
+      "evidence": "results\\research\\daily_WY2011_official_tocs_A.csv"
+    },
+    {
+      "check": "saved_balance_daily_WY2011_official_tocs_B.csv",
+      "pass": true,
+      "evidence": "max absolute residual=2.35100828e-12 TAF; rounded saved CSV"
+    },
+    {
+      "check": "saved_constraints_daily_WY2011_official_tocs_B.csv",
+      "pass": true,
+      "evidence": "results\\research\\daily_WY2011_official_tocs_B.csv"
+    },
+    {
+      "check": "saved_balance_daily_WY2011_official_tocs_C.csv",
+      "pass": true,
+      "evidence": "max absolute residual=2.35100828e-12 TAF; rounded saved CSV"
+    },
+    {
+      "check": "saved_constraints_daily_WY2011_official_tocs_C.csv",
+      "pass": true,
+      "evidence": "results\\research\\daily_WY2011_official_tocs_C.csv"
+    },
+    {
+      "check": "saved_balance_daily_WY2012_A.csv",
+      "pass": true,
+      "evidence": "max absolute residual=9.32600432e-08 TAF; rounded saved CSV"
+    },
+    {
+      "check": "saved_constraints_daily_WY2012_A.csv",
+      "pass": true,
+      "evidence": "results\\research\\daily_WY2012_A.csv"
+    },
+    {
+      "check": "saved_balance_daily_WY2012_B.csv",
+      "pass": true,
+      "evidence": "max absolute residual=9.51999675e-08 TAF; rounded saved CSV"
+    },
+    {
+      "check": "saved_constraints_daily_WY2012_B.csv",
+      "pass": true,
+      "evidence": "results\\research\\daily_WY2012_B.csv"
+    },
+    {
+      "check": "saved_balance_daily_WY2012_C.csv",
+      "pass": true,
+      "evidence": "max absolute residual=8.82899953e-08 TAF; rounded saved CSV"
+    },
+    {
+      "check": "saved_constraints_daily_WY2012_C.csv",
+      "pass": true,
+      "evidence": "results\\research\\daily_WY2012_C.csv"
+    },
+    {
+      "check": "saved_balance_daily_WY2015_A.csv",
+      "pass": true,
+      "evidence": "max absolute residual=9.77020047e-08 TAF; rounded saved CSV"
+    },
+    {
+      "check": "saved_constraints_daily_WY2015_A.csv",
+      "pass": true,
+      "evidence": "results\\research\\daily_WY2015_A.csv"
+    },
+    {
+      "check": "saved_balance_daily_WY2015_B.csv",
+      "pass": true,
+      "evidence": "max absolute residual=9.50999972e-08 TAF; rounded saved CSV"
+    },
+    {
+      "check": "saved_constraints_daily_WY2015_B.csv",
+      "pass": true,
+      "evidence": "results\\research\\daily_WY2015_B.csv"
+    },
+    {
+      "check": "saved_balance_daily_WY2015_C.csv",
+      "pass": true,
+      "evidence": "max absolute residual=9.82999957e-08 TAF; rounded saved CSV"
+    },
+    {
+      "check": "saved_constraints_daily_WY2015_C.csv",
+      "pass": true,
+      "evidence": "results\\research\\daily_WY2015_C.csv"
+    },
+    {
+      "check": "saved_balance_daily_WY2016_A.csv",
+      "pass": true,
+      "evidence": "max absolute residual=9.62000106e-08 TAF; rounded saved CSV"
+    },
+    {
+      "check": "saved_constraints_daily_WY2016_A.csv",
+      "pass": true,
+      "evidence": "results\\research\\daily_WY2016_A.csv"
+    },
+    {
+      "check": "saved_balance_daily_WY2016_B.csv",
+      "pass": true,
+      "evidence": "max absolute residual=9.62000106e-08 TAF; rounded saved CSV"
+    },
+    {
+      "check": "saved_constraints_daily_WY2016_B.csv",
+      "pass": true,
+      "evidence": "results\\research\\daily_WY2016_B.csv"
+    },
+    {
+      "check": "saved_balance_daily_WY2016_C.csv",
+      "pass": true,
+      "evidence": "max absolute residual=9.71999796e-08 TAF; rounded saved CSV"
+    },
+    {
+      "check": "saved_constraints_daily_WY2016_C.csv",
+      "pass": true,
+      "evidence": "results\\research\\daily_WY2016_C.csv"
+    },
+    {
+      "check": "saved_balance_drought_carryover_1036days_A.csv",
+      "pass": true,
+      "evidence": "max absolute residual=2.41673348e-12 TAF; rounded saved CSV"
+    },
+    {
+      "check": "saved_constraints_drought_carryover_1036days_A.csv",
+      "pass": true,
+      "evidence": "results\\research\\drought_carryover_1036days_A.csv"
+    },
+    {
+      "check": "saved_balance_drought_carryover_1036days_B.csv",
+      "pass": true,
+      "evidence": "max absolute residual=2.57927013e-12 TAF; rounded saved CSV"
+    },
+    {
+      "check": "saved_constraints_drought_carryover_1036days_B.csv",
+      "pass": true,
+      "evidence": "results\\research\\drought_carryover_1036days_B.csv"
+    },
+    {
+      "check": "saved_balance_drought_carryover_1036days_C.csv",
+      "pass": true,
+      "evidence": "max absolute residual=2.42206255e-12 TAF; rounded saved CSV"
+    },
+    {
+      "check": "saved_constraints_drought_carryover_1036days_C.csv",
+      "pass": true,
+      "evidence": "results\\research\\drought_carryover_1036days_C.csv"
+    },
+    {
+      "check": "saved_balance_flood_event_1.0_A.csv",
+      "pass": true,
+      "evidence": "max absolute residual=1.30739863e-12 TAF; rounded saved CSV"
+    },
+    {
+      "check": "saved_constraints_flood_event_1.0_A.csv",
+      "pass": true,
+      "evidence": "results\\research\\flood_event_1.0_A.csv"
+    },
+    {
+      "check": "saved_balance_flood_event_1.0_B.csv",
+      "pass": true,
+      "evidence": "max absolute residual=1.30739863e-12 TAF; rounded saved CSV"
+    },
+    {
+      "check": "saved_constraints_flood_event_1.0_B.csv",
+      "pass": true,
+      "evidence": "results\\research\\flood_event_1.0_B.csv"
+    },
+    {
+      "check": "saved_balance_flood_event_1.0_C.csv",
+      "pass": true,
+      "evidence": "max absolute residual=1.30739863e-12 TAF; rounded saved CSV"
+    },
+    {
+      "check": "saved_constraints_flood_event_1.0_C.csv",
+      "pass": true,
+      "evidence": "results\\research\\flood_event_1.0_C.csv"
+    },
+    {
+      "check": "saved_balance_flood_event_1.25_A.csv",
+      "pass": true,
+      "evidence": "max absolute residual=1.16529009e-12 TAF; rounded saved CSV"
+    },
+    {
+      "check": "saved_constraints_flood_event_1.25_A.csv",
+      "pass": true,
+      "evidence": "results\\research\\flood_event_1.25_A.csv"
+    },
+    {
+      "check": "saved_balance_flood_event_1.25_B.csv",
+      "pass": true,
+      "evidence": "max absolute residual=1.16529009e-12 TAF; rounded saved CSV"
+    },
+    {
+      "check": "saved_constraints_flood_event_1.25_B.csv",
+      "pass": true,
+      "evidence": "results\\research\\flood_event_1.25_B.csv"
+    },
+    {
+      "check": "saved_balance_flood_event_1.25_C.csv",
+      "pass": true,
+      "evidence": "max absolute residual=1.16529009e-12 TAF; rounded saved CSV"
+    },
+    {
+      "check": "saved_constraints_flood_event_1.25_C.csv",
+      "pass": true,
+      "evidence": "results\\research\\flood_event_1.25_C.csv"
+    },
+    {
+      "check": "saved_balance_flood_event_1.5_A.csv",
+      "pass": true,
+      "evidence": "max absolute residual=8.52651283e-13 TAF; rounded saved CSV"
+    },
+    {
+      "check": "saved_constraints_flood_event_1.5_A.csv",
+      "pass": true,
+      "evidence": "results\\research\\flood_event_1.5_A.csv"
+    },
+    {
+      "check": "saved_balance_flood_event_1.5_B.csv",
+      "pass": true,
+      "evidence": "max absolute residual=8.52651283e-13 TAF; rounded saved CSV"
+    },
+    {
+      "check": "saved_constraints_flood_event_1.5_B.csv",
+      "pass": true,
+      "evidence": "results\\research\\flood_event_1.5_B.csv"
+    },
+    {
+      "check": "saved_balance_flood_event_1.5_C.csv",
+      "pass": true,
+      "evidence": "max absolute residual=8.52651283e-13 TAF; rounded saved CSV"
+    },
+    {
+      "check": "saved_constraints_flood_event_1.5_C.csv",
+      "pass": true,
+      "evidence": "results\\research\\flood_event_1.5_C.csv"
+    },
+    {
+      "check": "saved_daily_case_count",
+      "pass": true,
+      "evidence": 39
+    },
+    {
+      "check": "case_count_annual_baseline_metrics.csv",
+      "pass": true,
+      "evidence": {
+        "actual": 21,
+        "expected": 21
+      }
+    },
+    {
+      "check": "case_count_training_parameter_grid.csv",
+      "pass": true,
+      "evidence": {
+        "actual": 42,
+        "expected": 42
+      }
+    },
+    {
+      "check": "case_count_sensitivity_annual_metrics.csv",
+      "pass": true,
+      "evidence": {
+        "actual": 132,
+        "expected": 132
+      }
+    },
+    {
+      "check": "case_count_official_tocs_2011_metrics.csv",
+      "pass": true,
+      "evidence": {
+        "actual": 3,
+        "expected": 3
+      }
+    },
+    {
+      "check": "case_count_continuous_carryover_metrics.csv",
+      "pass": true,
+      "evidence": {
+        "actual": 3,
+        "expected": 3
+      }
+    },
+    {
+      "check": "case_count_drought_carryover_metrics.csv",
+      "pass": true,
+      "evidence": {
+        "actual": 3,
+        "expected": 3
+      }
+    },
+    {
+      "check": "case_count_preference_sensitivity.csv",
+      "pass": true,
+      "evidence": {
+        "actual": 8,
+        "expected": 8
+      }
+    },
+    {
+      "check": "case_count_flood_event_metrics.csv",
+      "pass": true,
+      "evidence": {
+        "actual": 9,
+        "expected": 9
+      }
+    },
+    {
+      "check": "summary_recalculation_2000_A",
+      "pass": true,
+      "evidence": {
+        "volume_satisfaction": 0.9999999999999999,
+        "mean_squared_relative_deficit": 5.469897123424079e-32
+      }
+    },
+    {
+      "check": "summary_recalculation_2000_B",
+      "pass": true,
+      "evidence": {
+        "volume_satisfaction": 0.985973425101801,
+        "mean_squared_relative_deficit": 0.005245901638625133
+      }
+    },
+    {
+      "check": "summary_recalculation_2000_C",
+      "pass": true,
+      "evidence": {
+        "volume_satisfaction": 0.9888894821127666,
+        "mean_squared_relative_deficit": 0.0010838098025443721
+      }
+    },
+    {
+      "check": "summary_recalculation_2003_A",
+      "pass": true,
+      "evidence": {
+        "volume_satisfaction": 0.9999999999999999,
+        "mean_squared_relative_deficit": 5.29724958971334e-32
+      }
+    },
+    {
+      "check": "summary_recalculation_2003_B",
+      "pass": true,
+      "evidence": {
+        "volume_satisfaction": 0.9824179540421613,
+        "mean_squared_relative_deficit": 0.006575342465353378
+      }
+    },
+    {
+      "check": "summary_recalculation_2003_C",
+      "pass": true,
+      "evidence": {
+        "volume_satisfaction": 0.9851880998066934,
+        "mean_squared_relative_deficit": 0.001442730149916963
+      }
+    },
+    {
+      "check": "summary_recalculation_2007_A",
+      "pass": true,
+      "evidence": {
+        "volume_satisfaction": 0.9722204708684906,
+        "mean_squared_relative_deficit": 0.016044701577047824
+      }
+    },
+    {
+      "check": "summary_recalculation_2007_B",
+      "pass": true,
+      "evidence": {
+        "volume_satisfaction": 0.8240161607108959,
+        "mean_squared_relative_deficit": 0.05216438355995085
+      }
+    },
+    {
+      "check": "summary_recalculation_2007_C",
+      "pass": true,
+      "evidence": {
+        "volume_satisfaction": 0.8874317272360451,
+        "mean_squared_relative_deficit": 0.021218435987507573
+      }
+    },
+    {
+      "check": "summary_recalculation_2011_A",
+      "pass": true,
+      "evidence": {
+        "volume_satisfaction": 0.9999999999999999,
+        "mean_squared_relative_deficit": 2.2837180308702966e-32
+      }
+    },
+    {
+      "check": "summary_recalculation_2011_B",
+      "pass": true,
+      "evidence": {
+        "volume_satisfaction": 0.9847684624459848,
+        "mean_squared_relative_deficit": 0.005698630136185257
+      }
+    },
+    {
+      "check": "summary_recalculation_2011_C",
+      "pass": true,
+      "evidence": {
+        "volume_satisfaction": 0.9902215829605356,
+        "mean_squared_relative_deficit": 0.001092534717738743
+      }
+    },
+    {
+      "check": "summary_recalculation_2012_A",
+      "pass": true,
+      "evidence": {
+        "volume_satisfaction": 0.9999999999999999,
+        "mean_squared_relative_deficit": 7.360404571472144e-32
+      }
+    },
+    {
+      "check": "summary_recalculation_2012_B",
+      "pass": true,
+      "evidence": {
+        "volume_satisfaction": 0.8944448734410572,
+        "mean_squared_relative_deficit": 0.04371584699419282
+      }
+    },
+    {
+      "check": "summary_recalculation_2012_C",
+      "pass": true,
+      "evidence": {
+        "volume_satisfaction": 0.9402857945194388,
+        "mean_squared_relative_deficit": 0.008257441872511874
+      }
+    },
+    {
+      "check": "summary_recalculation_2015_A",
+      "pass": true,
+      "evidence": {
+        "volume_satisfaction": 0.6586606747546763,
+        "mean_squared_relative_deficit": 0.19488315912753676
+      }
+    },
+    {
+      "check": "summary_recalculation_2015_B",
+      "pass": true,
+      "evidence": {
+        "volume_satisfaction": 0.6586606747568255,
+        "mean_squared_relative_deficit": 0.16697302774953304
+      }
+    },
+    {
+      "check": "summary_recalculation_2015_C",
+      "pass": true,
+      "evidence": {
+        "volume_satisfaction": 0.6586606747563082,
+        "mean_squared_relative_deficit": 0.16096889699535905
+      }
+    },
+    {
+      "check": "summary_recalculation_2016_A",
+      "pass": true,
+      "evidence": {
+        "volume_satisfaction": 0.9999999999999999,
+        "mean_squared_relative_deficit": 5.287178058142339e-32
+      }
+    },
+    {
+      "check": "summary_recalculation_2016_B",
+      "pass": true,
+      "evidence": {
+        "volume_satisfaction": 0.9481749670158576,
+        "mean_squared_relative_deficit": 0.02098360655564119
+      }
+    },
+    {
+      "check": "summary_recalculation_2016_C",
+      "pass": true,
+      "evidence": {
+        "volume_satisfaction": 0.9617403453989949,
+        "mean_squared_relative_deficit": 0.00446976329353803
+      }
+    },
+    {
+      "check": "grid_selection",
+      "pass": true,
+      "evidence": {
+        "theta": 0.65,
+        "alpha": 0.55,
+        "training_score": 0.01647208224718001,
+        "training_years": [
+          2000,
+          2003,
+          2007
+        ],
+        "test_years": [
+          2011,
+          2012,
+          2015,
+          2016
+        ],
+        "config": {
+          "capacity": 975.0,
+          "reserve": 90.0,
+          "initial": 466.1,
+          "inflow_scale": 1.0,
+          "demand_scale": 1.0,
+          "tocs_offset": 0.0,
+          "eco_scale": 1.0,
+          "safe_cfs": 130000.0,
+          "substeps": 24
+        },
+        "grid_size": 42
+      }
+    },
+    {
+      "check": "disjoint_calibration_and_test",
+      "pass": true,
+      "evidence": {
+        "training": [
+          2000,
+          2003,
+          2007
+        ],
+        "test": [
+          2011,
+          2012,
+          2015,
+          2016
+        ]
+      }
+    },
+    {
+      "check": "reported_test_annual_mean_A",
+      "pass": true,
+      "evidence": 0.914665168688686
+    },
+    {
+      "check": "reported_test_annual_mean_B",
+      "pass": true,
+      "evidence": 0.8715122444134987
+    },
+    {
+      "check": "reported_test_annual_mean_C",
+      "pass": true,
+      "evidence": 0.8877270994084762
+    },
+    {
+      "check": "original_raw_hash_demand.txt",
+      "pass": true,
+      "evidence": "aff483915c5e81d87d088b66d9e20b6cf5477f4f3a54731dbcda9001d4591e99"
+    },
+    {
+      "check": "original_raw_hash_folsom.yml",
+      "pass": true,
+      "evidence": "3f1e9be520b40474593f5ea48f92ee89cbb7ea3738d2b017a75d928419c58c1f"
+    },
+    {
+      "check": "original_raw_hash_folsom_daily.csv",
+      "pass": true,
+      "evidence": "86de99ffd008ef1ab7dac147fffeb541f93e525bc3c511acb61e546d39053ba6"
+    },
+    {
+      "check": "figure_export_01_inputs_and_constraints",
+      "pass": true,
+      "evidence": "figures\\research\\01_inputs_and_constraints.png"
+    },
+    {
+      "check": "figure_export_02_holdout_comparison",
+      "pass": true,
+      "evidence": "figures\\research\\02_holdout_comparison.png"
+    },
+    {
+      "check": "figure_export_03_dry_WY2015",
+      "pass": true,
+      "evidence": "figures\\research\\03_dry_WY2015.png"
+    },
+    {
+      "check": "figure_export_04_inflow_sensitivity",
+      "pass": true,
+      "evidence": "figures\\research\\04_inflow_sensitivity.png"
+    },
+    {
+      "check": "figure_export_05_parameter_search",
+      "pass": true,
+      "evidence": "figures\\research\\05_parameter_search.png"
+    },
+    {
+      "check": "figure_export_06_flood_event_stress",
+      "pass": true,
+      "evidence": "figures\\research\\06_flood_event_stress.png"
+    },
+    {
+      "check": "figure_export_07_multiyear_drought",
+      "pass": true,
+      "evidence": "figures\\research\\07_multiyear_drought.png"
+    },
+    {
+      "check": "figure_export_08_numerical_correction",
+      "pass": true,
+      "evidence": "figures\\research\\08_numerical_correction.png"
+    },
+    {
+      "check": "report_requirement_利益相关者",
+      "pass": true,
+      "evidence": "report/Folsom水库调度研究报告.md"
+    },
+    {
+      "check": "report_requirement_可计算模型",
+      "pass": true,
+      "evidence": "report/Folsom水库调度研究报告.md"
+    },
+    {
+      "check": "report_requirement_三种管理策略",
+      "pass": true,
+      "evidence": "report/Folsom水库调度研究报告.md"
+    },
+    {
+      "check": "report_requirement_敏感性",
+      "pass": true,
+      "evidence": "report/Folsom水库调度研究报告.md"
+    },
+    {
+      "check": "report_requirement_公平",
+      "pass": true,
+      "evidence": "report/Folsom水库调度研究报告.md"
+    },
+    {
+      "check": "report_requirement_生态",
+      "pass": true,
+      "evidence": "report/Folsom水库调度研究报告.md"
+    },
+    {
+      "check": "report_requirement_局限",
+      "pass": true,
+      "evidence": "report/Folsom水库调度研究报告.md"
+    },
+    {
+      "check": "report_requirement_管理建议",
+      "pass": true,
+      "evidence": "report/Folsom水库调度研究报告.md"
+    },
+    {
+      "check": "report_requirement_参考资料",
+      "pass": true,
+      "evidence": "report/Folsom水库调度研究报告.md"
+    },
+    {
+      "check": "model_internal_checks",
+      "pass": true,
+      "evidence": "results/research/verification.json"
+    }
+  ],
+  "count": 134,
+  "saved_max_balance_error_taf": 9.911997000955353e-08,
+  "scope": "Independent recomputation of exported cases, artifact coverage and declared protocol; no claim of real-world validation"
+}
