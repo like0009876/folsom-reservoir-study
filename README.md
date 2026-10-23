@@ -4,7 +4,9 @@ Folsom水库供水保障与防洪约束下的调度策略情景研究。基于�
 
 ## 报告与结果
 
-- [Word研究报告（修正版）](report/Folsom水库调度研究报告_修正版.docx)
+- [Word完整研究报告（含封面与目录）](report/Folsom水库调度研究报告_完整版.docx)
+- [完整报告Markdown](report/Folsom水库调度研究报告_完整版.md)
+- [前版数值修正报告](report/Folsom水库调度研究报告_修正版.docx)
 - [研究报告Markdown](report/Folsom水库调度研究报告.md)
 - [主要结果表](results/research/test_mean_annual_metrics.csv)
 - [数值振荡原因与修正](docs/numerical_fix.md)
@@ -53,3 +55,7 @@ python scripts/verify_folsom_research.py
 - [USBR Central Valley Project](https://www.usbr.gov/mp/cvp/)
 
 上游项目许可证保存在docs/source_LICENSE。原始数据及上游材料保留各自权利和使用条件；本仓库未对它们另行授权。论文与官方资料完整引用见报告。
+
+## 完整研究报告
+
+2026-10-23更新：新增独立封面和带章节链接的目录页，重组研究问题、理论依据、实验设计与结果讨论，补充不确定性和后续研究。共18页，目录按本版实际页码校准；后续编辑正文后需重新校准页码。现有数据、模型和模拟结果未因文字修订而改变。生成入口为scripts/build_full_report.py。
